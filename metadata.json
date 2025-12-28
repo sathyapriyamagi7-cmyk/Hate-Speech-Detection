@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SentinelAI: Hate Speech Guard",
+  "description": "An advanced AI-powered web application designed to detect and classify hate speech and offensive content in real-time using Gemini 3's transformer capabilities.",
+  "requestFramePermissions": []
+}
